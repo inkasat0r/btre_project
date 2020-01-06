@@ -1,4 +1,2 @@
 E:\Users\Uprava\Documents\Projekti\btre_project\venv\scripts\activate.bat
 
-ssh user: djangoadmin
-pw: daforum
